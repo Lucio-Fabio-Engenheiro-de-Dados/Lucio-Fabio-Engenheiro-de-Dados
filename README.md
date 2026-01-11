@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Lúcio Fábio Barbosa de Lima
 
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** - (JULHO 2027)
+
 Graduado em Petróleo e Gás
 Pós Graduado em Engenharia de Produção
 Pós Graduado em Elaboração e Gerenciamento de Projetos
@@ -11,7 +12,7 @@ Natal, Brasil
 ---
 
 ## 🧠 Sobre mim
-Foco em dados e tecnologia, objetivo em transformar dados em informações e soluções escaláveis.  
+Foco dados e tecnologia, objetivo transformar dados em informações e soluções escaláveis.  
 Na Área de **Desenvolvimento Web** fiz alguns projetos de Aplicações com PHP e o Framework Laravel e Python utilizando o Framework Django.
 Minha meta é construir um repertótio teorico e prático para evoluir na área de **Dados**, com ênfase em **SQL** e ecossistema Big Data.
 
