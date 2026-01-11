@@ -2,8 +2,8 @@
 
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** - (JULHO 2027)
 
-Graduado em Petróleo e Gás
-Pós Graduado em Engenharia de Produção
+Graduado em Petróleo e Gás/
+Pós Graduado em Engenharia de Produção/ 
 Pós Graduado em Elaboração e Gerenciamento de Projetos
 
 📊 **Estudante de Full Stack de Dados & Analytics Pod Academy**  
