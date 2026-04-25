@@ -45,6 +45,7 @@ LARAVEL
 - ⚙️ Engenharia de Dados
 - 🏗️ Pipelines e processamento distribuído
 - Cloud Computing
+- Docker
 
 ## 🌐 Conecte-se comigo
 [LinkedIn](https://linkedin.com/in/lúcio-fábio-barbosa) 
