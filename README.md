@@ -6,7 +6,7 @@ Graduado em Petróleo e Gás/
 Pós Graduado em Engenharia de Produção/ 
 Pós Graduado em Elaboração e Gerenciamento de Projetos
 
-📊 **Estudante de Full Stack de Dados & Analytics Pod Academy**  
+📊 **Estudante do Curso Full Stack de Dados & Analytics na Empresa Pod Academy**  
 🚀 Objetivo profissional: **Engenharia de Dados** & **Ciência de Dados**
 Natal, Brasil
 ---
@@ -22,15 +22,15 @@ Minha meta é construir um repertótio teorico e prático para evoluir na área 
 Atuar como **Engenheiro de Dados**, desenvolvendo pipelines eficientes, soluções escaláveis e análises orientadas a dados.
 
 ## 🛠️ Tecnologias & Ferramentas
-Banco de Dados: MySQL e SQL Server
+Banco de Dados: MySQL, Postgre, SQL Server e Oracle
 Python
 Spark
-Cloud Computing (AWS)
+Cloud Computing 
 
 ### 💻 Desenvolvimento Web
-PHP
 PYTHON
 DJANGO
+PHP
 LARAVEL
 
 ## 📜 Certificações
@@ -50,5 +50,5 @@ LARAVEL
 [LinkedIn](https://linkedin.com/in/lúcio-fábio-barbosa) 
 Email: engenheirodedados.luciofabio@gmail.com
 
-📌 *Este repositório contém estudos, projetos e práticas voltadas para SQL, Engenharia e Análise de Dados.*
+📌 *Este repositório contém estudos, projetos e práticas voltadas para SQL, Engenharia de Dados e Análise de Dados.*
 
