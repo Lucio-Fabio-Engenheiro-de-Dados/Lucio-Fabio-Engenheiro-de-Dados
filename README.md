@@ -2,12 +2,13 @@
 
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** - (Dezembro 2026)
 
-Graduado em Petróleo e Gás/
+Graduado em Tecnologia em Petróleo e Gás/
 Graduado em Gestão de Recursos Humanos/
 Pós Graduado em Engenharia de Produção/ 
 Pós Graduado em Elaboração e Gerenciamento de Projetos
 
 📊 **Estudante do Curso Full Stack de Dados & Analytics na Empresa Pod Academy**  
+
 🚀 Objetivo profissional: **Engenharia de Dados** & **Ciência de Dados** - 
 Moro em Natal - Brasil
 ---
