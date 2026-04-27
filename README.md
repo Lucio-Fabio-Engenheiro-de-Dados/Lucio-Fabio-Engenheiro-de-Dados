@@ -24,9 +24,13 @@ Atuar como **Engenheiro de Dados**, desenvolvendo pipelines eficientes, soluçõ
 
 ## 🛠️ Tecnologias & Ferramentas
 Banco de Dados: MySQL, Postgre, SQL Server e Oracle
+
 Python
+
 Spark
+
 Cloud Computing 
+
 Apache Airflow
 
 ### 💻 Desenvolvimento Web
