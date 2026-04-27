@@ -1,20 +1,21 @@
 # 👋 Olá, eu sou Lúcio Fábio Barbosa de Lima
 
-🎓 **Graduando em Análise e Desenvolvimento de Sistemas** - (JULHO 2027)
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas** - (Dezembro 2026)
 
 Graduado em Petróleo e Gás/
+Graduado em Gestão de Recursos Humanos/
 Pós Graduado em Engenharia de Produção/ 
 Pós Graduado em Elaboração e Gerenciamento de Projetos
 
 📊 **Estudante do Curso Full Stack de Dados & Analytics na Empresa Pod Academy**  
-🚀 Objetivo profissional: **Engenharia de Dados** & **Ciência de Dados**
-Natal, Brasil
+🚀 Objetivo profissional: **Engenharia de Dados** & **Ciência de Dados** - 
+Moro em Natal - Brasil
 ---
 
 ## 🧠 Sobre mim
 Foco dados e tecnologia, objetivo transformar dados em informações e soluções escaláveis.  
 Na Área de **Desenvolvimento Web** fiz alguns projetos de Aplicações com PHP e o Framework Laravel e Python utilizando o Framework Django.
-Minha meta é construir um repertótio teorico e prático para evoluir na área de **Dados**, com ênfase em **SQL** e ecossistema Big Data.
+Minha meta é construir um repertório teorico e prático para evoluir na área de **Dados**, com ênfase em **SQL** e ecossistema Big Data.
 
 ---
 
@@ -26,6 +27,7 @@ Banco de Dados: MySQL, Postgre, SQL Server e Oracle
 Python
 Spark
 Cloud Computing 
+Apache Airflow
 
 ### 💻 Desenvolvimento Web
 PYTHON
