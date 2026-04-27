@@ -13,9 +13,9 @@ Moro em Natal - Brasil
 ---
 
 ## 🧠 Sobre mim
-Foco dados e tecnologia, objetivo transformar dados em informações e soluções escaláveis.  
-Na Área de **Desenvolvimento Web** fiz alguns projetos de Aplicações com PHP e o Framework Laravel e Python utilizando o Framework Django.
-Minha meta é construir um repertório teorico e prático para evoluir na área de **Dados**, com ênfase em **SQL** e ecossistema Big Data.
+Foco em dados e tecnologias, tenho como objetivo transformar dados em informações e soluções escaláveis.  
+Na Área de **Desenvolvimento Web** fiz alguns projetos de Aplicações com PHP e o Framework Laravel, com a linguagem de programação Python utilizando o Framework Django apliquei alguns serviços em sistemas web, ao longo dessa jornada irei apresentar alguns desses projetos alinhando a Engenharia de dados com algumas aplicações e funcionalidades em sistemas web.
+Entretanto tenho como meta construir um repertório teorico e prático para evoluir na área de **Engenharia de Dados**, com ênfase em **SQL** e ecossistema Big Data. E em breve aplicar em vagas na area de Engenharia de dados, Ciência de Dados e Analitycs.
 
 ---
 
