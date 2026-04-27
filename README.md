@@ -51,6 +51,7 @@ LARAVEL
 
 ## 🌐 Conecte-se comigo
 [LinkedIn](https://linkedin.com/in/lúcio-fábio-barbosa) 
+
 Email: engenheirodedados.luciofabio@gmail.com
 
 📌 *Este repositório contém estudos, projetos e práticas voltadas para SQL, Engenharia de Dados e Análise de Dados.*
