@@ -14,9 +14,9 @@ Moro em Natal - Brasil
 ---
 
 ## 🧠 Sobre mim
-Foco em dados e tecnologias, tenho como objetivo transformar dados em informações e soluções escaláveis.  
-Na Área de **Desenvolvimento Web** fiz alguns projetos de Aplicações com PHP e o Framework Laravel, com a linguagem de programação Python utilizando o Framework Django apliquei alguns serviços em sistemas web, ao longo dessa jornada irei apresentar alguns desses projetos alinhando a Engenharia de dados com algumas aplicações e funcionalidades em sistemas web.
-Entretanto tenho como meta construir um repertório teorico e prático para evoluir na área de **Engenharia de Dados**, com ênfase em **SQL** e ecossistema Big Data. E em breve aplicar em vagas na area de Engenharia de dados, Ciência de Dados e Analitycs.
+Foco em dados e tecnologias, tenho como objetivo transformar dados em informações e soluções escaláveis, para isso estudo Engenharia de Dados na Pod Academy. 
+Na Área de **Desenvolvimento Web** estou desenvolvendo projetos com a linguagem de programação Python utilizando o Framework Django aplicando alguns serviços em sistemas web, ao longo dessa jornada irei apresentar alguns desses projetos alinhando a Engenharia de dados com algumas aplicações e funcionalidades em sistemas web.
+Entretanto tenho como meta construir um repertório teórico e prático para evoluir na área de **Engenharia de Dados**, com ênfase em **SQL** e ecossistema Big Data. E em breve aplicar em vagas na area de Engenharia de dados, Ciência de Dados e Analitycs.
 
 ---
 
@@ -37,8 +37,7 @@ Apache Airflow
 ### 💻 Desenvolvimento Web
 PYTHON
 DJANGO
-PHP
-LARAVEL
+SQL
 
 ## 📜 Certificações
 ✔️ SQL  
@@ -49,10 +48,11 @@ LARAVEL
 
 ## 📚 Atualmente estudando
 - 🔎 **SQL com maior ênfase (consultas avançadas, otimização e modelagem)**
-- ⚙️ Engenharia de Dados
+- ⚙️ Engenharia de Dados 
 - 🏗️ Pipelines e processamento distribuído
 - Cloud Computing
 - Docker
+- Apache Airflow
 
 ## 🌐 Conecte-se comigo
 [LinkedIn](https://linkedin.com/in/lúcio-fábio-barbosa) 
