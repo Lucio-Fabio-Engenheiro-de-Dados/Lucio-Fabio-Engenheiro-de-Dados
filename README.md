@@ -1,5 +1,5 @@
-Aqui está seu README atualizado, com um posicionamento mais profissional e alinhado com portfólio de engenharia de dados 👇
 
+**“Build your happy”**
 ---
 
 # 👋 Olá, eu sou Lúcio Fábio Barbosa de Lima
