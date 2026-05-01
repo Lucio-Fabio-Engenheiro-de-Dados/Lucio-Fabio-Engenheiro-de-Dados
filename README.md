@@ -176,8 +176,11 @@ Este repositório contém:
 ## 🚀 Diferencial do Portfólio
 
 ✔️ Projetos baseados em problemas reais
+
 ✔️ Integração entre múltiplas tecnologias
+
 ✔️ Arquitetura de dados aplicada
+
 ✔️ Evolução contínua (nível iniciante → profissional)
 
 ---
