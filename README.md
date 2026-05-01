@@ -133,9 +133,13 @@ Atuar como **Engenheiro de Dados**, desenvolvendo:
 ## 📜 Outras Certificações
 
 ✔️ SQL - Pod Academy
+
 ✔️ Python - Pod Academy
+
 ✔️ PySpark - Pod Academy
+
 ✔️ Hadoop - Pod Academy
+
 ✔️ Apache Spark - Pod Academy
 
 ---
