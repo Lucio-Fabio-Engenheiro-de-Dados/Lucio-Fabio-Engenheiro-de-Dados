@@ -15,6 +15,8 @@ Pós Graduado em Elaboração e Gerenciamento de Projetos
 
 📊 **Estudante do Curso Full Stack de Dados & Analytics - Pod Academy**
 
+📘 **Estudante do Curso SQL Simplificado - Prof. Mauro Higashi**
+
 📍 Natal - Brasil
 
 🚀 Objetivo profissional: **Engenharia de Dados** & **Ciência de Dados**
